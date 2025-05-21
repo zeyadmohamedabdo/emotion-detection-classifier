@@ -1,0 +1,623 @@
+2025-05-16 01:59:07,105 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 01:59:08,870 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl: Type=<class 'sklearn.svm._classes.SVC'>, Has predict=True
+2025-05-16 01:59:08,887 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl: Type=<class 'sklearn.linear_model._logistic.LogisticRegression'>, Has predict=True
+2025-05-16 01:59:09,412 - INFO - Loaded Random Forest from best_model_random_forest.pkl: Type=<class 'sklearn.ensemble._forest.RandomForestClassifier'>, Has predict=True
+2025-05-16 01:59:09,441 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl: Type=<class 'sklearn.naive_bayes.MultinomialNB'>, Has predict=True
+2025-05-16 01:59:09,563 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl: Type=<class 'sklearn.ensemble._gb.GradientBoostingClassifier'>, Has predict=True
+2025-05-16 01:59:09,595 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl: Type=<class 'sklearn.svm._classes.SVC'>, Has predict=True
+2025-05-16 01:59:09,738 - INFO - Loaded TF-IDF vectorizer
+2025-05-16 01:59:09,784 - INFO - Loaded model metrics
+2025-05-16 02:00:18,764 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:00:19,084 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:00:25,302 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:00:25,307 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.02, 'joy': 0.83, 'love': 0.02, 'sadness': 0.06, 'surprise': 0.01}
+2025-05-16 02:00:25,346 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.04, 'fear': 0.21, 'joy': 0.71, 'love': 0.01, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 02:00:25,347 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.67, 'love': 0.03, 'sadness': 0.19, 'surprise': 0.01}
+2025-05-16 02:00:25,353 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 02:00:25,362 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:01:06,072 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:01:06,420 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:01:06,451 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.02, 'love': 0.0, 'sadness': 0.97, 'surprise': 0.0}
+2025-05-16 02:01:06,452 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.03, 'joy': 0.47, 'love': 0.02, 'sadness': 0.42, 'surprise': 0.01}
+2025-05-16 02:01:06,490 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.06, 'fear': 0.1, 'joy': 0.42, 'love': 0.0, 'sadness': 0.41, 'surprise': 0.01}
+2025-05-16 02:01:06,492 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.1, 'fear': 0.05, 'joy': 0.32, 'love': 0.02, 'sadness': 0.5, 'surprise': 0.01}
+2025-05-16 02:01:06,497 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 02:01:06,508 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.02, 'love': 0.0, 'sadness': 0.97, 'surprise': 0.0}
+2025-05-16 02:02:20,752 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:02:45,084 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:02:58,242 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:06:23,364 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:06:24,646 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl: Type=<class 'sklearn.svm._classes.SVC'>, Has predict=True
+2025-05-16 02:06:24,649 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl: Type=<class 'sklearn.linear_model._logistic.LogisticRegression'>, Has predict=True
+2025-05-16 02:06:25,246 - INFO - Loaded Random Forest from best_model_random_forest.pkl: Type=<class 'sklearn.ensemble._forest.RandomForestClassifier'>, Has predict=True
+2025-05-16 02:06:25,255 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl: Type=<class 'sklearn.naive_bayes.MultinomialNB'>, Has predict=True
+2025-05-16 02:06:25,330 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl: Type=<class 'sklearn.ensemble._gb.GradientBoostingClassifier'>, Has predict=True
+2025-05-16 02:06:25,337 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl: Type=<class 'sklearn.svm._classes.SVC'>, Has predict=True
+2025-05-16 02:06:25,420 - INFO - Loaded TF-IDF vectorizer
+2025-05-16 02:06:25,429 - INFO - Loaded model metrics
+2025-05-16 02:07:06,590 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:07:06,847 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:07:13,947 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.98, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:07:13,949 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.06, 'fear': 0.05, 'joy': 0.69, 'love': 0.04, 'sadness': 0.14, 'surprise': 0.02}
+2025-05-16 02:07:13,997 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.03, 'fear': 0.21, 'joy': 0.72, 'love': 0.01, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 02:07:13,999 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.08, 'fear': 0.07, 'joy': 0.43, 'love': 0.07, 'sadness': 0.33, 'surprise': 0.02}
+2025-05-16 02:07:14,006 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 02:07:14,016 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.98, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:17:25,511 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:17:25,825 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:17:25,875 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.04, 'fear': 0.06, 'joy': 0.5, 'love': 0.01, 'sadness': 0.38, 'surprise': 0.0}
+2025-05-16 02:17:25,877 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.1, 'fear': 0.14, 'joy': 0.37, 'love': 0.07, 'sadness': 0.3, 'surprise': 0.02}
+2025-05-16 02:17:25,949 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:17:25,950 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.1, 'fear': 0.13, 'joy': 0.26, 'love': 0.1, 'sadness': 0.38, 'surprise': 0.04}
+2025-05-16 02:17:25,956 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:17:25,965 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.04, 'fear': 0.06, 'joy': 0.5, 'love': 0.01, 'sadness': 0.38, 'surprise': 0.0}
+2025-05-16 02:17:37,117 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:17:37,625 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:17:37,672 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.1, 'fear': 0.07, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:17:37,676 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.39, 'love': 0.07, 'sadness': 0.26, 'surprise': 0.03}
+2025-05-16 02:17:37,753 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:17:37,755 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.34, 'love': 0.08, 'sadness': 0.29, 'surprise': 0.04}
+2025-05-16 02:17:37,762 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:17:37,772 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.06, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:18:09,364 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:18:09,696 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:18:09,755 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.11, 'fear': 0.08, 'joy': 0.35, 'love': 0.02, 'sadness': 0.42, 'surprise': 0.01}
+2025-05-16 02:18:09,757 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.15, 'fear': 0.16, 'joy': 0.25, 'love': 0.07, 'sadness': 0.35, 'surprise': 0.03}
+2025-05-16 02:18:09,808 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.06, 'fear': 0.49, 'joy': 0.31, 'love': 0.0, 'sadness': 0.12, 'surprise': 0.02}
+2025-05-16 02:18:09,810 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.12, 'fear': 0.11, 'joy': 0.33, 'love': 0.05, 'sadness': 0.39, 'surprise': 0.01}
+2025-05-16 02:18:09,817 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:18:09,829 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.11, 'fear': 0.08, 'joy': 0.35, 'love': 0.02, 'sadness': 0.42, 'surprise': 0.01}
+2025-05-16 02:22:00,437 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:00,924 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:00,980 - ERROR - Processed text is empty
+2025-05-16 02:22:16,116 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:16,584 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:16,625 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.1, 'fear': 0.07, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:22:16,628 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.39, 'love': 0.07, 'sadness': 0.26, 'surprise': 0.03}
+2025-05-16 02:22:16,701 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:22:16,702 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.34, 'love': 0.08, 'sadness': 0.29, 'surprise': 0.04}
+2025-05-16 02:22:16,708 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:22:16,716 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.06, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:22:31,816 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:32,211 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:32,259 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.1, 'fear': 0.07, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:22:32,263 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.39, 'love': 0.07, 'sadness': 0.26, 'surprise': 0.03}
+2025-05-16 02:22:32,349 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:22:32,352 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.34, 'love': 0.08, 'sadness': 0.29, 'surprise': 0.04}
+2025-05-16 02:22:32,363 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:22:32,376 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.06, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:22:39,557 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:39,984 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:40,049 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.1, 'fear': 0.07, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:22:40,053 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.39, 'love': 0.07, 'sadness': 0.26, 'surprise': 0.03}
+2025-05-16 02:22:40,117 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:22:40,119 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.34, 'love': 0.08, 'sadness': 0.29, 'surprise': 0.04}
+2025-05-16 02:22:40,123 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:22:40,130 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.06, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:22:47,617 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:48,023 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:22:48,107 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.1, 'fear': 0.07, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:22:48,110 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.39, 'love': 0.07, 'sadness': 0.26, 'surprise': 0.03}
+2025-05-16 02:22:48,199 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:22:48,202 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.34, 'love': 0.08, 'sadness': 0.29, 'surprise': 0.04}
+2025-05-16 02:22:48,211 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:22:48,218 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.06, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:23:01,569 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:23:01,880 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:23:01,921 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.1, 'fear': 0.07, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:23:01,923 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.39, 'love': 0.07, 'sadness': 0.26, 'surprise': 0.03}
+2025-05-16 02:23:01,986 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:23:01,988 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.34, 'love': 0.08, 'sadness': 0.29, 'surprise': 0.04}
+2025-05-16 02:23:01,996 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:23:02,004 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.06, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:23:15,971 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:23:16,389 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:23:16,453 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 02:23:16,456 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.08, 'fear': 0.06, 'joy': 0.08, 'love': 0.02, 'sadness': 0.74, 'surprise': 0.02}
+2025-05-16 02:23:16,540 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.06, 'fear': 0.22, 'joy': 0.02, 'love': 0.0, 'sadness': 0.69, 'surprise': 0.01}
+2025-05-16 02:23:16,544 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.13, 'fear': 0.1, 'joy': 0.12, 'love': 0.02, 'sadness': 0.63, 'surprise': 0.02}
+2025-05-16 02:23:16,552 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:23:16,565 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 02:23:43,802 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:23:44,158 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:23:44,206 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.1, 'fear': 0.07, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:23:44,209 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.39, 'love': 0.07, 'sadness': 0.26, 'surprise': 0.03}
+2025-05-16 02:23:44,269 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:23:44,272 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.34, 'love': 0.08, 'sadness': 0.29, 'surprise': 0.04}
+2025-05-16 02:23:44,279 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:23:44,288 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.06, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:23:52,692 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:23:53,099 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:23:53,141 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 02:23:53,143 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.08, 'fear': 0.06, 'joy': 0.08, 'love': 0.02, 'sadness': 0.74, 'surprise': 0.02}
+2025-05-16 02:23:53,197 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.06, 'fear': 0.22, 'joy': 0.02, 'love': 0.0, 'sadness': 0.69, 'surprise': 0.01}
+2025-05-16 02:23:53,199 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.13, 'fear': 0.1, 'joy': 0.12, 'love': 0.02, 'sadness': 0.63, 'surprise': 0.02}
+2025-05-16 02:23:53,206 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:23:53,218 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 02:24:01,735 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:24:02,270 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:24:02,313 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.0, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}
+2025-05-16 02:24:02,315 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.07, 'fear': 0.09, 'joy': 0.16, 'love': 0.04, 'sadness': 0.62, 'surprise': 0.02}
+2025-05-16 02:24:02,367 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.07, 'fear': 0.24, 'joy': 0.05, 'love': 0.0, 'sadness': 0.63, 'surprise': 0.01}
+2025-05-16 02:24:02,369 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.1, 'fear': 0.12, 'joy': 0.15, 'love': 0.04, 'sadness': 0.57, 'surprise': 0.02}
+2025-05-16 02:24:02,376 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:24:02,385 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.0, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}
+2025-05-16 02:24:16,102 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:24:16,538 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:24:16,591 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.98, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:24:16,593 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.06, 'fear': 0.05, 'joy': 0.69, 'love': 0.04, 'sadness': 0.14, 'surprise': 0.02}
+2025-05-16 02:24:16,646 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.03, 'fear': 0.21, 'joy': 0.72, 'love': 0.01, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 02:24:16,648 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.08, 'fear': 0.07, 'joy': 0.43, 'love': 0.07, 'sadness': 0.33, 'surprise': 0.02}
+2025-05-16 02:24:16,654 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 02:24:16,663 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.98, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:24:39,291 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:24:50,635 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:24:51,013 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:24:51,042 - ERROR - Processed text is empty
+2025-05-16 02:36:52,381 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:36:52,604 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:36:52,623 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.03, 'love': 0.0, 'sadness': 0.96, 'surprise': 0.0}
+2025-05-16 02:36:52,624 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.06, 'fear': 0.03, 'joy': 0.48, 'love': 0.01, 'sadness': 0.41, 'surprise': 0.01}
+2025-05-16 02:36:52,638 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.06, 'fear': 0.11, 'joy': 0.44, 'love': 0.0, 'sadness': 0.38, 'surprise': 0.01}
+2025-05-16 02:36:52,638 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.1, 'fear': 0.04, 'joy': 0.34, 'love': 0.01, 'sadness': 0.5, 'surprise': 0.01}
+2025-05-16 02:36:52,641 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 02:36:52,647 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.03, 'love': 0.0, 'sadness': 0.96, 'surprise': 0.0}
+2025-05-16 02:46:57,649 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:46:57,883 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:46:57,900 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:46:57,901 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.02, 'joy': 0.83, 'love': 0.02, 'sadness': 0.06, 'surprise': 0.01}
+2025-05-16 02:46:57,925 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.04, 'fear': 0.21, 'joy': 0.71, 'love': 0.01, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 02:46:57,926 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.67, 'love': 0.03, 'sadness': 0.19, 'surprise': 0.01}
+2025-05-16 02:46:57,929 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 02:46:57,933 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:47:06,634 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:47:06,852 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:47:06,867 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:47:06,867 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.04, 'fear': 0.03, 'joy': 0.86, 'love': 0.02, 'sadness': 0.03, 'surprise': 0.01}
+2025-05-16 02:47:06,883 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.04, 'fear': 0.38, 'joy': 0.57, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:47:06,884 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.03, 'fear': 0.02, 'joy': 0.86, 'love': 0.03, 'sadness': 0.04, 'surprise': 0.02}
+2025-05-16 02:47:06,887 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.09, 'fear': 0.07, 'joy': 0.54, 'love': 0.04, 'sadness': 0.25, 'surprise': 0.01}
+2025-05-16 02:47:06,892 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:47:12,025 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:47:12,248 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:47:12,261 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.1, 'fear': 0.07, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:47:12,262 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.39, 'love': 0.07, 'sadness': 0.26, 'surprise': 0.03}
+2025-05-16 02:47:12,280 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.88, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:47:12,280 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.14, 'fear': 0.12, 'joy': 0.34, 'love': 0.08, 'sadness': 0.29, 'surprise': 0.04}
+2025-05-16 02:47:12,284 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:47:12,288 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.06, 'joy': 0.57, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.0}
+2025-05-16 02:47:19,123 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:47:19,345 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:47:19,363 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:47:19,364 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.04, 'fear': 0.03, 'joy': 0.86, 'love': 0.02, 'sadness': 0.03, 'surprise': 0.01}
+2025-05-16 02:47:19,388 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.04, 'fear': 0.38, 'joy': 0.57, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:47:19,389 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.03, 'fear': 0.02, 'joy': 0.86, 'love': 0.03, 'sadness': 0.04, 'surprise': 0.02}
+2025-05-16 02:47:19,392 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.09, 'fear': 0.07, 'joy': 0.54, 'love': 0.04, 'sadness': 0.25, 'surprise': 0.01}
+2025-05-16 02:47:19,396 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:47:38,562 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:47:38,793 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:47:38,815 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.83, 'love': 0.0, 'sadness': 0.16, 'surprise': 0.0}
+2025-05-16 02:47:38,815 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.04, 'fear': 0.03, 'joy': 0.68, 'love': 0.02, 'sadness': 0.23, 'surprise': 0.01}
+2025-05-16 02:47:38,831 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.05, 'fear': 0.16, 'joy': 0.33, 'love': 0.0, 'sadness': 0.45, 'surprise': 0.01}
+2025-05-16 02:47:38,832 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.08, 'fear': 0.05, 'joy': 0.62, 'love': 0.02, 'sadness': 0.21, 'surprise': 0.02}
+2025-05-16 02:47:38,834 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.09, 'fear': 0.07, 'joy': 0.54, 'love': 0.04, 'sadness': 0.25, 'surprise': 0.01}
+2025-05-16 02:47:38,838 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.83, 'love': 0.0, 'sadness': 0.16, 'surprise': 0.0}
+2025-05-16 02:48:06,488 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:48:06,691 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:48:06,712 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}
+2025-05-16 02:48:06,714 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.07, 'fear': 0.07, 'joy': 0.11, 'love': 0.04, 'sadness': 0.69, 'surprise': 0.01}
+2025-05-16 02:48:06,745 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.04, 'fear': 0.11, 'joy': 0.12, 'love': 0.0, 'sadness': 0.73, 'surprise': 0.0}
+2025-05-16 02:48:06,746 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.07, 'fear': 0.08, 'joy': 0.26, 'love': 0.06, 'sadness': 0.51, 'surprise': 0.01}
+2025-05-16 02:48:06,751 - INFO - Prediction for Gradient Boosting: sadness, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.35, 'love': 0.05, 'sadness': 0.4, 'surprise': 0.01}
+2025-05-16 02:48:06,757 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}
+2025-05-16 02:48:22,960 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:48:23,183 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:48:23,200 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.05, 'fear': 0.16, 'joy': 0.56, 'love': 0.03, 'sadness': 0.2, 'surprise': 0.0}
+2025-05-16 02:48:23,201 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.09, 'fear': 0.16, 'joy': 0.38, 'love': 0.1, 'sadness': 0.26, 'surprise': 0.02}
+2025-05-16 02:48:23,219 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.84, 'joy': 0.07, 'love': 0.03, 'sadness': 0.02, 'surprise': 0.0}
+2025-05-16 02:48:23,219 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.06, 'fear': 0.14, 'joy': 0.39, 'love': 0.12, 'sadness': 0.26, 'surprise': 0.02}
+2025-05-16 02:48:23,222 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:48:23,227 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.05, 'fear': 0.15, 'joy': 0.56, 'love': 0.03, 'sadness': 0.2, 'surprise': 0.0}
+2025-05-16 02:49:17,155 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:49:17,361 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:49:17,379 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.99, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:49:17,379 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.03, 'joy': 0.78, 'love': 0.02, 'sadness': 0.11, 'surprise': 0.01}
+2025-05-16 02:49:17,400 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.95, 'love': 0.0, 'sadness': 0.05, 'surprise': 0.0}
+2025-05-16 02:49:17,401 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.1, 'fear': 0.05, 'joy': 0.58, 'love': 0.04, 'sadness': 0.21, 'surprise': 0.02}
+2025-05-16 02:49:17,404 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 02:49:17,410 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.99, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:49:27,705 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:49:27,925 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:49:27,946 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:49:27,947 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.02, 'fear': 0.01, 'joy': 0.88, 'love': 0.01, 'sadness': 0.07, 'surprise': 0.01}
+2025-05-16 02:49:27,962 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.98, 'love': 0.01, 'sadness': 0.01, 'surprise': 0.0}
+2025-05-16 02:49:27,963 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.06, 'fear': 0.03, 'joy': 0.67, 'love': 0.03, 'sadness': 0.2, 'surprise': 0.01}
+2025-05-16 02:49:27,966 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 02:49:27,971 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 02:51:13,607 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:51:13,825 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 02:51:13,843 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.04, 'fear': 0.04, 'joy': 0.47, 'love': 0.01, 'sadness': 0.43, 'surprise': 0.01}
+2025-05-16 02:51:13,844 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.08, 'fear': 0.08, 'joy': 0.4, 'love': 0.05, 'sadness': 0.37, 'surprise': 0.02}
+2025-05-16 02:51:13,861 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.07, 'fear': 0.39, 'joy': 0.26, 'love': 0.0, 'sadness': 0.28, 'surprise': 0.0}
+2025-05-16 02:51:13,862 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.09, 'fear': 0.08, 'joy': 0.4, 'love': 0.05, 'sadness': 0.36, 'surprise': 0.01}
+2025-05-16 02:51:13,867 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 02:51:13,871 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.05, 'fear': 0.03, 'joy': 0.47, 'love': 0.01, 'sadness': 0.43, 'surprise': 0.01}
+2025-05-16 03:22:15,867 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:22:16,448 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl: Type=<class 'sklearn.svm._classes.SVC'>, Has predict=True
+2025-05-16 03:22:16,448 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl: Type=<class 'sklearn.linear_model._logistic.LogisticRegression'>, Has predict=True
+2025-05-16 03:22:16,691 - INFO - Loaded Random Forest from best_model_random_forest.pkl: Type=<class 'sklearn.ensemble._forest.RandomForestClassifier'>, Has predict=True
+2025-05-16 03:22:16,695 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl: Type=<class 'sklearn.naive_bayes.MultinomialNB'>, Has predict=True
+2025-05-16 03:22:16,723 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl: Type=<class 'sklearn.ensemble._gb.GradientBoostingClassifier'>, Has predict=True
+2025-05-16 03:22:16,725 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl: Type=<class 'sklearn.svm._classes.SVC'>, Has predict=True
+2025-05-16 03:22:16,752 - INFO - Loaded TF-IDF vectorizer
+2025-05-16 03:22:16,755 - INFO - Loaded model metrics
+2025-05-16 03:23:00,841 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:23:01,053 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:23:03,707 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 03:23:03,708 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.02, 'joy': 0.83, 'love': 0.02, 'sadness': 0.06, 'surprise': 0.01}
+2025-05-16 03:23:03,722 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.04, 'fear': 0.21, 'joy': 0.71, 'love': 0.01, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 03:23:03,723 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.67, 'love': 0.03, 'sadness': 0.19, 'surprise': 0.01}
+2025-05-16 03:23:03,725 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 03:23:03,729 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 03:23:11,422 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:23:11,658 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:23:11,675 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 03:23:11,675 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.08, 'fear': 0.06, 'joy': 0.08, 'love': 0.02, 'sadness': 0.74, 'surprise': 0.02}
+2025-05-16 03:23:11,691 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.06, 'fear': 0.22, 'joy': 0.02, 'love': 0.0, 'sadness': 0.69, 'surprise': 0.01}
+2025-05-16 03:23:11,692 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.13, 'fear': 0.1, 'joy': 0.12, 'love': 0.02, 'sadness': 0.63, 'surprise': 0.02}
+2025-05-16 03:23:11,694 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:23:11,700 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 03:23:16,358 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:23:16,377 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 03:23:16,378 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.08, 'fear': 0.06, 'joy': 0.08, 'love': 0.02, 'sadness': 0.74, 'surprise': 0.02}
+2025-05-16 03:23:16,401 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.06, 'fear': 0.22, 'joy': 0.02, 'love': 0.0, 'sadness': 0.69, 'surprise': 0.01}
+2025-05-16 03:23:16,402 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.13, 'fear': 0.1, 'joy': 0.12, 'love': 0.02, 'sadness': 0.63, 'surprise': 0.02}
+2025-05-16 03:23:16,406 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:23:16,410 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 03:23:21,472 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:23:21,488 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 03:23:21,489 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.08, 'fear': 0.06, 'joy': 0.08, 'love': 0.02, 'sadness': 0.74, 'surprise': 0.02}
+2025-05-16 03:23:21,510 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.06, 'fear': 0.22, 'joy': 0.02, 'love': 0.0, 'sadness': 0.69, 'surprise': 0.01}
+2025-05-16 03:23:21,510 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.13, 'fear': 0.1, 'joy': 0.12, 'love': 0.02, 'sadness': 0.63, 'surprise': 0.02}
+2025-05-16 03:23:21,513 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:23:21,519 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 03:23:39,203 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:23:39,425 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:23:39,447 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.15, 'fear': 0.06, 'joy': 0.46, 'love': 0.02, 'sadness': 0.31, 'surprise': 0.01}
+2025-05-16 03:23:39,448 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.16, 'fear': 0.13, 'joy': 0.34, 'love': 0.05, 'sadness': 0.3, 'surprise': 0.03}
+2025-05-16 03:23:39,473 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.72, 'joy': 0.13, 'love': 0.0, 'sadness': 0.1, 'surprise': 0.01}
+2025-05-16 03:23:39,474 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.13, 'fear': 0.11, 'joy': 0.34, 'love': 0.05, 'sadness': 0.35, 'surprise': 0.01}
+2025-05-16 03:23:39,479 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:23:39,487 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.15, 'fear': 0.06, 'joy': 0.46, 'love': 0.02, 'sadness': 0.31, 'surprise': 0.01}
+2025-05-16 03:24:33,290 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:24:33,692 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:24:33,749 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.07, 'fear': 0.25, 'joy': 0.52, 'love': 0.03, 'sadness': 0.12, 'surprise': 0.01}
+2025-05-16 03:24:33,751 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.09, 'fear': 0.16, 'joy': 0.41, 'love': 0.14, 'sadness': 0.18, 'surprise': 0.02}
+2025-05-16 03:24:33,829 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.02, 'fear': 0.63, 'joy': 0.3, 'love': 0.02, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 03:24:33,830 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.11, 'fear': 0.24, 'joy': 0.31, 'love': 0.13, 'sadness': 0.18, 'surprise': 0.04}
+2025-05-16 03:24:33,838 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:24:33,851 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.08, 'fear': 0.24, 'joy': 0.53, 'love': 0.03, 'sadness': 0.12, 'surprise': 0.01}
+2025-05-16 03:25:19,438 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:25:19,815 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:25:19,862 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.07, 'fear': 0.25, 'joy': 0.52, 'love': 0.03, 'sadness': 0.12, 'surprise': 0.01}
+2025-05-16 03:25:19,864 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.09, 'fear': 0.16, 'joy': 0.41, 'love': 0.14, 'sadness': 0.18, 'surprise': 0.02}
+2025-05-16 03:25:19,936 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.02, 'fear': 0.63, 'joy': 0.3, 'love': 0.02, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 03:25:19,939 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.11, 'fear': 0.24, 'joy': 0.31, 'love': 0.13, 'sadness': 0.18, 'surprise': 0.04}
+2025-05-16 03:25:19,950 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:25:19,961 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.08, 'fear': 0.24, 'joy': 0.53, 'love': 0.03, 'sadness': 0.12, 'surprise': 0.01}
+2025-05-16 03:25:40,070 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:25:40,408 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:25:40,461 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.52, 'love': 0.19, 'sadness': 0.17, 'surprise': 0.01}
+2025-05-16 03:25:40,464 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.07, 'joy': 0.39, 'love': 0.33, 'sadness': 0.14, 'surprise': 0.02}
+2025-05-16 03:25:40,533 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.02, 'fear': 0.62, 'joy': 0.28, 'love': 0.04, 'sadness': 0.04, 'surprise': 0.0}
+2025-05-16 03:25:40,535 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.07, 'joy': 0.45, 'love': 0.13, 'sadness': 0.25, 'surprise': 0.01}
+2025-05-16 03:25:40,543 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:25:40,555 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.53, 'love': 0.19, 'sadness': 0.17, 'surprise': 0.01}
+2025-05-16 03:27:22,642 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:27:23,098 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:27:23,177 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.52, 'love': 0.19, 'sadness': 0.17, 'surprise': 0.01}
+2025-05-16 03:27:23,180 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.07, 'joy': 0.39, 'love': 0.33, 'sadness': 0.14, 'surprise': 0.02}
+2025-05-16 03:27:23,309 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.02, 'fear': 0.62, 'joy': 0.28, 'love': 0.04, 'sadness': 0.04, 'surprise': 0.0}
+2025-05-16 03:27:23,313 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.07, 'joy': 0.45, 'love': 0.13, 'sadness': 0.25, 'surprise': 0.01}
+2025-05-16 03:27:23,332 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:27:23,353 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.53, 'love': 0.19, 'sadness': 0.17, 'surprise': 0.01}
+2025-05-16 03:27:45,295 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:27:45,693 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:27:45,737 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.1, 'fear': 0.13, 'joy': 0.33, 'love': 0.01, 'sadness': 0.41, 'surprise': 0.02}
+2025-05-16 03:27:45,740 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.12, 'fear': 0.13, 'joy': 0.41, 'love': 0.06, 'sadness': 0.25, 'surprise': 0.03}
+2025-05-16 03:27:45,811 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.87, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.01}
+2025-05-16 03:27:45,814 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.11, 'fear': 0.14, 'joy': 0.37, 'love': 0.09, 'sadness': 0.22, 'surprise': 0.07}
+2025-05-16 03:27:45,825 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:27:45,836 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.11, 'fear': 0.12, 'joy': 0.33, 'love': 0.01, 'sadness': 0.41, 'surprise': 0.02}
+2025-05-16 03:27:45,844 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:27:46,125 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.1, 'fear': 0.13, 'joy': 0.33, 'love': 0.01, 'sadness': 0.41, 'surprise': 0.02}
+2025-05-16 03:27:46,128 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.12, 'fear': 0.13, 'joy': 0.41, 'love': 0.06, 'sadness': 0.25, 'surprise': 0.03}
+2025-05-16 03:27:46,185 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.04, 'fear': 0.87, 'joy': 0.07, 'love': 0.0, 'sadness': 0.01, 'surprise': 0.01}
+2025-05-16 03:27:46,187 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.11, 'fear': 0.14, 'joy': 0.37, 'love': 0.09, 'sadness': 0.22, 'surprise': 0.07}
+2025-05-16 03:27:46,195 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:27:46,206 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.11, 'fear': 0.12, 'joy': 0.33, 'love': 0.01, 'sadness': 0.41, 'surprise': 0.02}
+2025-05-16 03:34:39,609 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:35:04,009 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:35:04,076 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.52, 'love': 0.19, 'sadness': 0.17, 'surprise': 0.01}
+2025-05-16 03:35:04,077 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.07, 'joy': 0.39, 'love': 0.33, 'sadness': 0.14, 'surprise': 0.02}
+2025-05-16 03:35:04,168 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.02, 'fear': 0.62, 'joy': 0.28, 'love': 0.04, 'sadness': 0.04, 'surprise': 0.0}
+2025-05-16 03:35:04,173 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.07, 'joy': 0.45, 'love': 0.13, 'sadness': 0.25, 'surprise': 0.01}
+2025-05-16 03:35:04,190 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:35:04,212 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.53, 'love': 0.19, 'sadness': 0.17, 'surprise': 0.01}
+2025-05-16 03:35:17,482 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:35:17,541 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.52, 'love': 0.19, 'sadness': 0.17, 'surprise': 0.01}
+2025-05-16 03:35:17,544 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.07, 'joy': 0.39, 'love': 0.33, 'sadness': 0.14, 'surprise': 0.02}
+2025-05-16 03:35:17,608 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.02, 'fear': 0.62, 'joy': 0.28, 'love': 0.04, 'sadness': 0.04, 'surprise': 0.0}
+2025-05-16 03:35:17,610 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.07, 'joy': 0.45, 'love': 0.13, 'sadness': 0.25, 'surprise': 0.01}
+2025-05-16 03:35:17,616 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:35:17,629 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.53, 'love': 0.19, 'sadness': 0.17, 'surprise': 0.01}
+2025-05-16 03:40:06,724 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:40:07,078 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:40:07,120 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.05, 'fear': 0.02, 'joy': 0.74, 'love': 0.04, 'sadness': 0.14, 'surprise': 0.01}
+2025-05-16 03:40:07,122 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.08, 'fear': 0.07, 'joy': 0.46, 'love': 0.14, 'sadness': 0.2, 'surprise': 0.05}
+2025-05-16 03:40:07,184 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.1, 'fear': 0.34, 'joy': 0.41, 'love': 0.04, 'sadness': 0.1, 'surprise': 0.01}
+2025-05-16 03:40:07,186 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.09, 'fear': 0.07, 'joy': 0.44, 'love': 0.09, 'sadness': 0.3, 'surprise': 0.02}
+2025-05-16 03:40:07,195 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:40:07,209 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.05, 'fear': 0.02, 'joy': 0.74, 'love': 0.04, 'sadness': 0.14, 'surprise': 0.01}
+2025-05-16 03:40:40,143 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:40:40,539 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:40:40,595 - INFO - Prediction for Support Vector Machine (Linear): fear, Probabilities: {'anger': 0.0, 'fear': 0.98, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.01}
+2025-05-16 03:40:40,597 - INFO - Prediction for Logistic Regression: fear, Probabilities: {'anger': 0.04, 'fear': 0.7, 'joy': 0.07, 'love': 0.1, 'sadness': 0.06, 'surprise': 0.02}
+2025-05-16 03:40:40,662 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.01, 'fear': 0.88, 'joy': 0.04, 'love': 0.03, 'sadness': 0.04, 'surprise': 0.0}
+2025-05-16 03:40:40,664 - INFO - Prediction for Naive Bayes: fear, Probabilities: {'anger': 0.08, 'fear': 0.33, 'joy': 0.23, 'love': 0.1, 'sadness': 0.23, 'surprise': 0.03}
+2025-05-16 03:40:40,674 - INFO - Prediction for Gradient Boosting: fear, Probabilities: {'anger': 0.08, 'fear': 0.42, 'joy': 0.25, 'love': 0.04, 'sadness': 0.21, 'surprise': 0.01}
+2025-05-16 03:40:40,689 - INFO - Prediction for Tuned Best Model: fear, Probabilities: {'anger': 0.0, 'fear': 0.98, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.01}
+2025-05-16 03:41:39,119 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:42:07,478 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:42:07,943 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:42:08,005 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.62, 'love': 0.05, 'sadness': 0.12, 'surprise': 0.01}
+2025-05-16 03:42:08,011 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.09, 'fear': 0.12, 'joy': 0.41, 'love': 0.16, 'sadness': 0.19, 'surprise': 0.03}
+2025-05-16 03:42:08,115 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.02, 'fear': 0.63, 'joy': 0.29, 'love': 0.03, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 03:42:08,117 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.09, 'fear': 0.12, 'joy': 0.37, 'love': 0.11, 'sadness': 0.28, 'surprise': 0.03}
+2025-05-16 03:42:08,124 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:42:08,132 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.62, 'love': 0.05, 'sadness': 0.11, 'surprise': 0.01}
+2025-05-16 03:42:32,822 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:42:33,256 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:42:33,304 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.05, 'fear': 0.03, 'joy': 0.82, 'love': 0.03, 'sadness': 0.06, 'surprise': 0.0}
+2025-05-16 03:42:33,306 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.09, 'fear': 0.09, 'joy': 0.47, 'love': 0.14, 'sadness': 0.18, 'surprise': 0.02}
+2025-05-16 03:42:33,374 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': 0.02, 'fear': 0.63, 'joy': 0.3, 'love': 0.02, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 03:42:33,376 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.1, 'fear': 0.1, 'joy': 0.47, 'love': 0.12, 'sadness': 0.17, 'surprise': 0.04}
+2025-05-16 03:42:33,383 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:42:33,394 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.05, 'fear': 0.03, 'joy': 0.82, 'love': 0.03, 'sadness': 0.06, 'surprise': 0.0}
+2025-05-16 03:43:36,201 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:43:36,535 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:43:36,594 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}
+2025-05-16 03:43:36,597 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.06, 'fear': 0.04, 'joy': 0.12, 'love': 0.04, 'sadness': 0.71, 'surprise': 0.02}
+2025-05-16 03:43:36,679 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.0, 'fear': 0.03, 'joy': 0.02, 'love': 0.0, 'sadness': 0.95, 'surprise': 0.0}
+2025-05-16 03:43:36,681 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.09, 'fear': 0.05, 'joy': 0.1, 'love': 0.06, 'sadness': 0.67, 'surprise': 0.02}
+2025-05-16 03:43:36,688 - INFO - Prediction for Gradient Boosting: sadness, Probabilities: {'anger': 0.08, 'fear': 0.06, 'joy': 0.25, 'love': 0.04, 'sadness': 0.57, 'surprise': 0.01}
+2025-05-16 03:43:36,703 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}
+2025-05-16 03:44:37,374 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:44:37,768 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:44:37,829 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.99, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 03:44:37,830 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.02, 'fear': 0.04, 'joy': 0.74, 'love': 0.01, 'sadness': 0.18, 'surprise': 0.02}
+2025-05-16 03:44:37,909 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.01, 'fear': 0.03, 'joy': 0.88, 'love': 0.0, 'sadness': 0.05, 'surprise': 0.03}
+2025-05-16 03:44:37,913 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.06, 'fear': 0.06, 'joy': 0.52, 'love': 0.02, 'sadness': 0.33, 'surprise': 0.01}
+2025-05-16 03:44:37,922 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.12, 'fear': 0.1, 'joy': 0.39, 'love': 0.06, 'sadness': 0.32, 'surprise': 0.01}
+2025-05-16 03:44:37,937 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.99, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 03:44:57,559 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:44:57,977 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:44:58,008 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 03:44:58,010 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': 0.04, 'fear': 0.05, 'joy': 0.04, 'love': 0.02, 'sadness': 0.85, 'surprise': 0.02}
+2025-05-16 03:44:58,056 - INFO - Prediction for Random Forest: sadness, Probabilities: {'anger': 0.01, 'fear': 0.02, 'joy': 0.04, 'love': 0.0, 'sadness': 0.93, 'surprise': 0.0}
+2025-05-16 03:44:58,059 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {'anger': 0.06, 'fear': 0.06, 'joy': 0.06, 'love': 0.02, 'sadness': 0.8, 'surprise': 0.01}
+2025-05-16 03:44:58,066 - INFO - Prediction for Gradient Boosting: sadness, Probabilities: {'anger': 0.08, 'fear': 0.07, 'joy': 0.28, 'love': 0.04, 'sadness': 0.53, 'surprise': 0.01}
+2025-05-16 03:44:58,076 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}
+2025-05-16 03:47:03,229 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:52:22,974 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:52:24,982 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl
+2025-05-16 03:52:24,986 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl
+2025-05-16 03:52:25,592 - INFO - Loaded Random Forest from best_model_random_forest.pkl
+2025-05-16 03:52:25,603 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl
+2025-05-16 03:52:25,679 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl
+2025-05-16 03:52:25,692 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-16 03:52:25,789 - INFO - Loaded TF-IDF vectorizer
+2025-05-16 03:52:25,806 - INFO - Loaded model metrics
+2025-05-16 03:52:35,251 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:52:47,852 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:52:52,505 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:53:19,062 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:53:19,410 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:53:26,789 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 03:53:26,791 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.05, 'fear': 0.02, 'joy': 0.83, 'love': 0.02, 'sadness': 0.06, 'surprise': 0.01}
+2025-05-16 03:53:26,835 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.04, 'fear': 0.21, 'joy': 0.71, 'love': 0.01, 'sadness': 0.03, 'surprise': 0.0}
+2025-05-16 03:53:26,836 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.67, 'love': 0.03, 'sadness': 0.19, 'surprise': 0.01}
+2025-05-16 03:53:26,842 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 03:53:26,851 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 03:54:07,760 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:54:08,067 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:54:08,099 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.97, 'love': 0.0, 'sadness': 0.02, 'surprise': 0.0}
+2025-05-16 03:54:08,101 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.08, 'fear': 0.05, 'joy': 0.68, 'love': 0.03, 'sadness': 0.15, 'surprise': 0.01}
+2025-05-16 03:54:08,151 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.17, 'fear': 0.03, 'joy': 0.73, 'love': 0.01, 'sadness': 0.06, 'surprise': 0.0}
+2025-05-16 03:54:08,153 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.08, 'fear': 0.04, 'joy': 0.55, 'love': 0.02, 'sadness': 0.31, 'surprise': 0.0}
+2025-05-16 03:54:08,160 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 03:54:08,168 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.97, 'love': 0.0, 'sadness': 0.02, 'surprise': 0.0}
+2025-05-16 03:54:21,966 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:58:12,619 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:58:30,840 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 03:58:30,930 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.97, 'love': 0.0, 'sadness': 0.02, 'surprise': 0.0}
+2025-05-16 03:58:30,933 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.08, 'fear': 0.05, 'joy': 0.68, 'love': 0.03, 'sadness': 0.15, 'surprise': 0.01}
+2025-05-16 03:58:31,026 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.17, 'fear': 0.03, 'joy': 0.73, 'love': 0.01, 'sadness': 0.06, 'surprise': 0.0}
+2025-05-16 03:58:31,029 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.08, 'fear': 0.04, 'joy': 0.55, 'love': 0.02, 'sadness': 0.31, 'surprise': 0.0}
+2025-05-16 03:58:31,038 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 03:58:31,052 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.97, 'love': 0.0, 'sadness': 0.02, 'surprise': 0.0}
+2025-05-16 04:00:20,163 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:01:47,063 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:01:51,178 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:01:55,215 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:02:05,067 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:02:13,242 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:02:30,867 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:02:30,963 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.97, 'love': 0.0, 'sadness': 0.02, 'surprise': 0.0}
+2025-05-16 04:02:30,965 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.08, 'fear': 0.05, 'joy': 0.68, 'love': 0.03, 'sadness': 0.15, 'surprise': 0.01}
+2025-05-16 04:02:31,022 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.17, 'fear': 0.03, 'joy': 0.73, 'love': 0.01, 'sadness': 0.06, 'surprise': 0.0}
+2025-05-16 04:02:31,024 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.08, 'fear': 0.04, 'joy': 0.55, 'love': 0.02, 'sadness': 0.31, 'surprise': 0.0}
+2025-05-16 04:02:31,033 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 04:02:31,045 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.01, 'fear': 0.0, 'joy': 0.97, 'love': 0.0, 'sadness': 0.02, 'surprise': 0.0}
+2025-05-16 04:07:16,977 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:27:15,990 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:27:17,882 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl
+2025-05-16 04:27:17,891 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl
+2025-05-16 04:27:18,416 - INFO - Loaded Random Forest from best_model_random_forest.pkl
+2025-05-16 04:27:18,423 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl
+2025-05-16 04:27:18,484 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl
+2025-05-16 04:27:18,492 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-16 04:27:18,561 - INFO - Loaded TF-IDF vectorizer
+2025-05-16 04:27:18,570 - INFO - Loaded model metrics
+2025-05-16 04:27:31,330 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:27:53,503 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:27:53,783 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:28:00,549 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.99, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 04:28:00,551 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.06, 'fear': 0.03, 'joy': 0.78, 'love': 0.02, 'sadness': 0.1, 'surprise': 0.01}
+2025-05-16 04:28:00,597 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.04, 'fear': 0.16, 'joy': 0.75, 'love': 0.01, 'sadness': 0.04, 'surprise': 0.0}
+2025-05-16 04:28:00,598 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.62, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.01}
+2025-05-16 04:28:00,607 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 04:28:00,617 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 0.99, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 04:28:05,999 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:48:15,286 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:48:16,541 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl
+2025-05-16 04:48:16,561 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl
+2025-05-16 04:48:17,033 - INFO - Loaded Random Forest from best_model_random_forest.pkl
+2025-05-16 04:48:17,061 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl
+2025-05-16 04:48:17,162 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl
+2025-05-16 04:48:17,186 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-16 04:48:17,282 - INFO - Loaded TF-IDF vectorizer
+2025-05-16 04:48:17,305 - INFO - Loaded model metrics
+2025-05-16 04:48:40,748 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:48:40,970 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:48:47,257 - INFO - Prediction for Support Vector Machine (Linear): joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 04:48:47,259 - INFO - Prediction for Logistic Regression: joy, Probabilities: {'anger': 0.06, 'fear': 0.03, 'joy': 0.78, 'love': 0.02, 'sadness': 0.1, 'surprise': 0.01}
+2025-05-16 04:48:47,295 - INFO - Prediction for Random Forest: joy, Probabilities: {'anger': 0.04, 'fear': 0.25, 'joy': 0.68, 'love': 0.01, 'sadness': 0.02, 'surprise': 0.0}
+2025-05-16 04:48:47,296 - INFO - Prediction for Naive Bayes: joy, Probabilities: {'anger': 0.07, 'fear': 0.03, 'joy': 0.62, 'love': 0.02, 'sadness': 0.24, 'surprise': 0.01}
+2025-05-16 04:48:47,303 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': 0.11, 'fear': 0.09, 'joy': 0.45, 'love': 0.05, 'sadness': 0.29, 'surprise': 0.01}
+2025-05-16 04:48:47,319 - INFO - Prediction for Tuned Best Model: joy, Probabilities: {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}
+2025-05-16 04:48:52,000 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-16 04:49:18,572 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:01:23,813 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:01:25,422 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl
+2025-05-19 10:01:25,424 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl
+2025-05-19 10:01:25,942 - INFO - Loaded Random Forest from best_model_random_forest.pkl
+2025-05-19 10:01:25,950 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl
+2025-05-19 10:01:25,991 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl
+2025-05-19 10:01:25,994 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-19 10:01:26,045 - INFO - Loaded TF-IDF vectorizer
+2025-05-19 10:01:26,068 - INFO - Loaded model metrics
+2025-05-19 10:03:47,413 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:03:48,257 - ERROR - Model file best_model_support_vector_machine_(linear).pkl not found
+2025-05-19 10:03:48,257 - ERROR - Model file best_model_logistic_regression.pkl not found
+2025-05-19 10:03:48,257 - ERROR - Model file best_model_random_forest.pkl not found
+2025-05-19 10:03:48,257 - ERROR - Model file best_model_naive_bayes.pkl not found
+2025-05-19 10:03:48,257 - ERROR - Model file best_model_gradient_boosting.pkl not found
+2025-05-19 10:03:48,258 - ERROR - Model file tuned_best_model.pkl not found
+2025-05-19 10:03:48,258 - ERROR - TF-IDF vectorizer file not found
+2025-05-19 10:03:48,261 - ERROR - Metrics file model_metrics.json not found
+2025-05-19 10:07:26,687 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:07:28,872 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl
+2025-05-19 10:07:28,874 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl
+2025-05-19 10:07:29,564 - INFO - Loaded Random Forest from best_model_random_forest.pkl
+2025-05-19 10:07:29,573 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl
+2025-05-19 10:07:29,657 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl
+2025-05-19 10:07:29,658 - ERROR - Model file tuned_best_model.pkl not found
+2025-05-19 10:07:29,776 - INFO - Loaded TF-IDF vectorizer
+2025-05-19 10:07:29,784 - INFO - Loaded model metrics
+2025-05-19 10:07:36,202 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:07:36,214 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:02,850 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:02,850 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:15,160 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:15,273 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:15,751 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:17,083 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:18,189 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:18,328 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:18,928 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:18,992 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:19,417 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:19,522 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:12:26,789 - INFO - Prediction for Support Vector Machine (Linear): fear, Probabilities: {'anger': np.float64(0.0), 'fear': np.float64(1.0), 'joy': np.float64(0.0), 'love': np.float64(0.0), 'sadness': np.float64(0.0), 'surprise': np.float64(0.0)}
+2025-05-19 10:12:26,808 - INFO - Prediction for Logistic Regression: fear, Probabilities: {'anger': np.float64(0.03), 'fear': np.float64(0.87), 'joy': np.float64(0.04), 'love': np.float64(0.02), 'sadness': np.float64(0.03), 'surprise': np.float64(0.01)}
+2025-05-19 10:12:26,993 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': np.float64(0.01), 'fear': np.float64(0.95), 'joy': np.float64(0.03), 'love': np.float64(0.0), 'sadness': np.float64(0.01), 'surprise': np.float64(0.0)}
+2025-05-19 10:12:27,034 - INFO - Prediction for Naive Bayes: fear, Probabilities: {np.str_('anger'): np.float64(0.04), np.str_('fear'): np.float64(0.69), np.str_('joy'): np.float64(0.16), np.str_('love'): np.float64(0.02), np.str_('sadness'): np.float64(0.08), np.str_('surprise'): np.float64(0.01)}
+2025-05-19 10:12:27,058 - INFO - Prediction for Gradient Boosting: fear, Probabilities: {'anger': np.float64(0.07), 'fear': np.float64(0.48), 'joy': np.float64(0.23), 'love': np.float64(0.03), 'sadness': np.float64(0.19), 'surprise': np.float64(0.01)}
+2025-05-19 10:12:29,169 - ERROR - Error in preprocessing: 'WordNetCorpusReader' object has no attribute '_LazyCorpusLoader__args'
+2025-05-19 10:12:33,202 - ERROR - Error in preprocessing: 'WordNetCorpusReader' object has no attribute '_LazyCorpusLoader__args'
+2025-05-19 10:12:33,295 - INFO - Prediction for Support Vector Machine (Linear): fear, Probabilities: {'anger': np.float64(0.0), 'fear': np.float64(1.0), 'joy': np.float64(0.0), 'love': np.float64(0.0), 'sadness': np.float64(0.0), 'surprise': np.float64(0.0)}
+2025-05-19 10:12:33,297 - INFO - Prediction for Logistic Regression: fear, Probabilities: {'anger': np.float64(0.03), 'fear': np.float64(0.87), 'joy': np.float64(0.04), 'love': np.float64(0.02), 'sadness': np.float64(0.03), 'surprise': np.float64(0.01)}
+2025-05-19 10:12:33,324 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': np.float64(0.01), 'fear': np.float64(0.95), 'joy': np.float64(0.03), 'love': np.float64(0.0), 'sadness': np.float64(0.01), 'surprise': np.float64(0.0)}
+2025-05-19 10:12:33,325 - INFO - Prediction for Naive Bayes: fear, Probabilities: {np.str_('anger'): np.float64(0.04), np.str_('fear'): np.float64(0.69), np.str_('joy'): np.float64(0.16), np.str_('love'): np.float64(0.02), np.str_('sadness'): np.float64(0.08), np.str_('surprise'): np.float64(0.01)}
+2025-05-19 10:12:33,329 - INFO - Prediction for Gradient Boosting: fear, Probabilities: {'anger': np.float64(0.07), 'fear': np.float64(0.48), 'joy': np.float64(0.23), 'love': np.float64(0.03), 'sadness': np.float64(0.19), 'surprise': np.float64(0.01)}
+2025-05-19 10:14:10,433 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:14:10,469 - INFO - Prediction for Support Vector Machine (Linear): fear, Probabilities: {'anger': np.float64(0.0), 'fear': np.float64(1.0), 'joy': np.float64(0.0), 'love': np.float64(0.0), 'sadness': np.float64(0.0), 'surprise': np.float64(0.0)}
+2025-05-19 10:14:10,470 - INFO - Prediction for Logistic Regression: fear, Probabilities: {'anger': np.float64(0.03), 'fear': np.float64(0.87), 'joy': np.float64(0.04), 'love': np.float64(0.02), 'sadness': np.float64(0.03), 'surprise': np.float64(0.01)}
+2025-05-19 10:14:10,506 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': np.float64(0.01), 'fear': np.float64(0.95), 'joy': np.float64(0.03), 'love': np.float64(0.0), 'sadness': np.float64(0.01), 'surprise': np.float64(0.0)}
+2025-05-19 10:14:10,507 - INFO - Prediction for Naive Bayes: fear, Probabilities: {np.str_('anger'): np.float64(0.04), np.str_('fear'): np.float64(0.69), np.str_('joy'): np.float64(0.16), np.str_('love'): np.float64(0.02), np.str_('sadness'): np.float64(0.08), np.str_('surprise'): np.float64(0.01)}
+2025-05-19 10:14:10,512 - INFO - Prediction for Gradient Boosting: fear, Probabilities: {'anger': np.float64(0.07), 'fear': np.float64(0.48), 'joy': np.float64(0.23), 'love': np.float64(0.03), 'sadness': np.float64(0.19), 'surprise': np.float64(0.01)}
+2025-05-19 10:14:21,839 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:14:31,085 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:14:49,304 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:14:50,149 - ERROR - Model file best_model_support_vector_machine_(linear).pkl not found
+2025-05-19 10:14:50,149 - ERROR - Model file best_model_logistic_regression.pkl not found
+2025-05-19 10:14:50,149 - ERROR - Model file best_model_random_forest.pkl not found
+2025-05-19 10:14:50,149 - ERROR - Model file best_model_naive_bayes.pkl not found
+2025-05-19 10:14:50,150 - ERROR - Model file best_model_gradient_boosting.pkl not found
+2025-05-19 10:14:50,154 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-19 10:14:50,154 - ERROR - TF-IDF vectorizer file not found
+2025-05-19 10:14:50,159 - INFO - Loaded model metrics
+2025-05-19 10:14:54,884 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:14:55,717 - ERROR - Model file best_model_support_vector_machine_(linear).pkl not found
+2025-05-19 10:14:55,717 - ERROR - Model file best_model_logistic_regression.pkl not found
+2025-05-19 10:14:55,717 - ERROR - Model file best_model_random_forest.pkl not found
+2025-05-19 10:14:55,717 - ERROR - Model file best_model_naive_bayes.pkl not found
+2025-05-19 10:14:55,717 - ERROR - Model file best_model_gradient_boosting.pkl not found
+2025-05-19 10:14:55,721 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-19 10:14:55,721 - ERROR - TF-IDF vectorizer file not found
+2025-05-19 10:14:55,726 - INFO - Loaded model metrics
+2025-05-19 10:15:00,818 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:15:02,468 - ERROR - Model file best_model_support_vector_machine_(linear).pkl not found
+2025-05-19 10:15:02,468 - ERROR - Model file best_model_logistic_regression.pkl not found
+2025-05-19 10:15:02,468 - ERROR - Model file best_model_random_forest.pkl not found
+2025-05-19 10:15:02,469 - ERROR - Model file best_model_naive_bayes.pkl not found
+2025-05-19 10:15:02,469 - ERROR - Model file best_model_gradient_boosting.pkl not found
+2025-05-19 10:15:02,474 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-19 10:15:02,475 - ERROR - TF-IDF vectorizer file not found
+2025-05-19 10:15:02,487 - INFO - Loaded model metrics
+2025-05-19 10:15:08,011 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:15:09,704 - ERROR - Model file best_model_support_vector_machine_(linear).pkl not found
+2025-05-19 10:15:09,705 - ERROR - Model file best_model_logistic_regression.pkl not found
+2025-05-19 10:15:09,705 - ERROR - Model file best_model_random_forest.pkl not found
+2025-05-19 10:15:09,705 - ERROR - Model file best_model_naive_bayes.pkl not found
+2025-05-19 10:15:09,705 - ERROR - Model file best_model_gradient_boosting.pkl not found
+2025-05-19 10:15:09,709 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-19 10:15:09,709 - ERROR - TF-IDF vectorizer file not found
+2025-05-19 10:15:09,715 - INFO - Loaded model metrics
+2025-05-19 10:29:28,090 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:29:30,636 - INFO - Loaded Support Vector Machine (Linear) from best_model_support_vector_machine_(linear).pkl
+2025-05-19 10:29:30,638 - INFO - Loaded Logistic Regression from best_model_logistic_regression.pkl
+2025-05-19 10:29:31,076 - INFO - Loaded Random Forest from best_model_random_forest.pkl
+2025-05-19 10:29:31,088 - INFO - Loaded Naive Bayes from best_model_naive_bayes.pkl
+2025-05-19 10:29:31,157 - INFO - Loaded Gradient Boosting from best_model_gradient_boosting.pkl
+2025-05-19 10:29:31,160 - INFO - Loaded Tuned Best Model from tuned_best_model.pkl
+2025-05-19 10:29:31,274 - INFO - Loaded TF-IDF vectorizer
+2025-05-19 10:29:31,284 - INFO - Loaded model metrics
+2025-05-19 10:29:44,472 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:29:56,077 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:30:00,961 - INFO - Prediction for Support Vector Machine (Linear): fear, Probabilities: {'anger': np.float64(0.0), 'fear': np.float64(1.0), 'joy': np.float64(0.0), 'love': np.float64(0.0), 'sadness': np.float64(0.0), 'surprise': np.float64(0.0)}
+2025-05-19 10:30:00,962 - INFO - Prediction for Logistic Regression: fear, Probabilities: {'anger': np.float64(0.03), 'fear': np.float64(0.87), 'joy': np.float64(0.04), 'love': np.float64(0.02), 'sadness': np.float64(0.03), 'surprise': np.float64(0.01)}
+2025-05-19 10:30:00,998 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': np.float64(0.0), 'fear': np.float64(0.95), 'joy': np.float64(0.05), 'love': np.float64(0.0), 'sadness': np.float64(0.0), 'surprise': np.float64(0.0)}
+2025-05-19 10:30:00,999 - INFO - Prediction for Naive Bayes: fear, Probabilities: {np.str_('anger'): np.float64(0.04), np.str_('fear'): np.float64(0.69), np.str_('joy'): np.float64(0.16), np.str_('love'): np.float64(0.02), np.str_('sadness'): np.float64(0.08), np.str_('surprise'): np.float64(0.01)}
+2025-05-19 10:30:01,003 - INFO - Prediction for Gradient Boosting: fear, Probabilities: {'anger': np.float64(0.07), 'fear': np.float64(0.45), 'joy': np.float64(0.24), 'love': np.float64(0.03), 'sadness': np.float64(0.2), 'surprise': np.float64(0.01)}
+2025-05-19 10:30:01,015 - INFO - Prediction for Tuned Best Model: fear, Probabilities: {'anger': np.float64(0.0), 'fear': np.float64(1.0), 'joy': np.float64(0.0), 'love': np.float64(0.0), 'sadness': np.float64(0.0), 'surprise': np.float64(0.0)}
+2025-05-19 10:30:24,001 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:31:22,269 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:31:22,836 - INFO - Downloaded NLTK stopwords and wordnet
+2025-05-19 10:31:22,866 - INFO - Prediction for Support Vector Machine (Linear): sadness, Probabilities: {'anger': np.float64(0.03), 'fear': np.float64(0.26), 'joy': np.float64(0.11), 'love': np.float64(0.01), 'sadness': np.float64(0.58), 'surprise': np.float64(0.01)}
+2025-05-19 10:31:22,867 - INFO - Prediction for Logistic Regression: sadness, Probabilities: {'anger': np.float64(0.12), 'fear': np.float64(0.21), 'joy': np.float64(0.23), 'love': np.float64(0.06), 'sadness': np.float64(0.35), 'surprise': np.float64(0.03)}
+2025-05-19 10:31:22,900 - INFO - Prediction for Random Forest: fear, Probabilities: {'anger': np.float64(0.19), 'fear': np.float64(0.5), 'joy': np.float64(0.21), 'love': np.float64(0.02), 'sadness': np.float64(0.08), 'surprise': np.float64(0.0)}
+2025-05-19 10:31:22,901 - INFO - Prediction for Naive Bayes: sadness, Probabilities: {np.str_('anger'): np.float64(0.13), np.str_('fear'): np.float64(0.17), np.str_('joy'): np.float64(0.2), np.str_('love'): np.float64(0.07), np.str_('sadness'): np.float64(0.38), np.str_('surprise'): np.float64(0.04)}
+2025-05-19 10:31:22,905 - INFO - Prediction for Gradient Boosting: joy, Probabilities: {'anger': np.float64(0.12), 'fear': np.float64(0.1), 'joy': np.float64(0.39), 'love': np.float64(0.06), 'sadness': np.float64(0.32), 'surprise': np.float64(0.01)}
+2025-05-19 10:31:22,915 - INFO - Prediction for Tuned Best Model: sadness, Probabilities: {'anger': np.float64(0.03), 'fear': np.float64(0.26), 'joy': np.float64(0.11), 'love': np.float64(0.01), 'sadness': np.float64(0.58), 'surprise': np.float64(0.01)}
