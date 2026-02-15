@@ -1,5 +1,5 @@
 
-# Emotion Detection Using Machine Learning
+# Emotion Detection Using Machine Learning:
 
 This project focuses on detecting emotions from text using a range of machine learning models. It includes training, evaluating, and tuning models for emotion classification, and a web-based interface built with Streamlit for real-time predictions and visualizations.
 
